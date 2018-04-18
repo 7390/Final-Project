@@ -47,6 +47,18 @@ The datasets are obtained from Billboard API, Spotify API and web scraper; the f
 Methods
 
 A. Preprocess the data
-   1.
-   2
+   1. Data cleaning
+   2. Changing the column['Rank']: If the rank is higher than 30(<30), the added colomn Hit will be Yes or "1"; If the rank is lower than 30(>30), the added colomn Hit will be No or "0".
+   
+B. Analyze the data
+   1. Find out the linear relation between the features of the song
+   2. Find out the lyrics trending in Billboard
+   
+C. Modeling
+   1. 
+   
+D. Computing Platform
 
+
+Results
+A. 
