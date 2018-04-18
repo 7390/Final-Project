@@ -37,3 +37,16 @@ you should run getdata.py with the data1.csv to get 100000 songs rank in billboa
 3.run read.Json.py to get each track's audio analysis, and we save all data into Data_Json folder.
 
 Use Mysql to combine all these data into one csv file which we saved as Full_data.csv
+
+
+
+Data
+
+The datasets are obtained from Billboard API, Spotify API and web scraper; the first is a dataset in which the host took the weekly Top 100 Billboard charts and scraped song lyrics websites. The second is year-end Billboard charts range from 1964 to 2017 and song lyrics scraped from three websites.
+
+Methods
+
+A. Preprocess the data
+   1.
+   2
+
